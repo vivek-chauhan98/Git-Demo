@@ -64,7 +64,19 @@ git checkout -b <-new branch name->  (to create new branch)
 git branch -d <-branch name-> (to delete particular branch)
 
 
-# Added new Feature - button
-# Added new Feature - form
+# Fixing mistake
+
+Case - 1 : staged changes
+
+git reset <-file name->
+git reset
+
+Case - 2 : commited changes(for one commit)
+git reset HEAD~1
+
+Case - 3 : commited changes (for many commits)
+git reset <-commit hash->
+git reset --hard <-commit hash->
+
 
 
