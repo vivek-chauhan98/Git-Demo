@@ -63,4 +63,11 @@ git checkout -b <-new branch name->  (to create new branch)
 
 git branch -d <-branch name-> (to delete particular branch)
 
+# Merging code 
+
+git diff <-branch name->  (to compare commit,branches,files & more)
+
+git merge <-branch name->  (to merge 2 branches) OR create a PR (Pull request)
+
+
 
