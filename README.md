@@ -71,3 +71,8 @@ git merge <-branch name->  (to merge 2 branches) OR create a PR (Pull request)
 
 
 
+PR (Pull request)
+git pull origin main (to pull code from github from main branch to local system)
+
+ - create new branch
+ - 
