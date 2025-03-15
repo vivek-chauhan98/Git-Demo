@@ -63,5 +63,5 @@ git checkout -b <-new branch name->  (to create new branch)
 
 git branch -d <-branch name-> (to delete particular branch)
 
-# Added new Feature
+# Removed new Feature
 
