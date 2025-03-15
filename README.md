@@ -53,3 +53,14 @@ git push -u origin main (to set the upstream default to main branch, to make the
 
 git commit -am 'some message'  (to add and commit the file together in one step when there is no new file created and only existing files are modified)
 
+# git branch commands
+
+git branch (all branch names)
+
+git checkout <-branch name-> (to switch to particulr branch)
+
+git checkout -b <-new branch name->  (to create new branch)
+
+git branch -d <-branch name-> (to delete particular branch)
+
+
