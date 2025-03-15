@@ -51,5 +51,5 @@ git push origin main (to push the code to github from local)
 
 git push -u origin main (to set the upstream default to main branch, to make the origin as main for all future files and so next time we only have to write - 'git push' and not 'git push origin main')
 
-git commit -am 'some message'  (to add and push the file together in one step when there is no new file created and only existing files are modified)
+git commit -am 'some message'  (to add and commit the file together in one step when there is no new file created and only existing files are modified)
 
