@@ -63,4 +63,10 @@ git checkout -b <-new branch name->  (to create new branch)
 
 git branch -d <-branch name-> (to delete particular branch)
 
+# Merging branches
 
+PR (Pull request)
+git pull origin main (to pull code from github from main branch to local system)
+
+ - create new branch
+ - 
