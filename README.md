@@ -78,5 +78,6 @@ Case - 3 : commited changes (for many commits)
 git reset <-commit hash->
 git reset --hard <-commit hash->
 
-
+git log, 
+q - to quit from terminal
 
